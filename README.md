@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, Sajjad here 👋
+
+- 🎓 I'm a recent master's graduate from Cal State San Marcos
+- 👀 I'm looking for a Data Scientist position
+- 🤖 I'm learning Gen AI at the moment
+- 📍 I'm living in Bay Area right now..
+- 📧 Feel free to reach out to me @ sajjaduddin00@gmail.com
+
 
 <!--
 **Sajjad0014/Sajjad0014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
