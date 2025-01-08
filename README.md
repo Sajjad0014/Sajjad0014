@@ -4,7 +4,7 @@
 - 👀 I'm looking for a Data Scientist position
 - 🤖 I'm learning Gen AI at the moment
 - 📍 I'm living in Bay Area right now..
-- 📧 Feel free to reach out to me @ sajjaduddin00@gmail.com
+- 📧 Feel free to reach out to me @ sajjad.s@worksemails.com
 
 
 <!--
